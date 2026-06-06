@@ -1,0 +1,109 @@
+{
+  "about": {
+    "name": "Subhamoy Chowdhury",
+    "bio": [
+      "Hey, I'm <strong>Subhamoy Chowdhury</strong>, a passionate <strong>BCA student</strong> and aspiring <strong>Full Stack Developer</strong> with a strong interest in creating secure, scalable, and user-friendly web applications.",
+      "I enjoy working with both front-end and back-end technologies and continuously strive to improve my skills in <strong>C, Python, Java, JavaScript, HTML,</strong> and <strong>MySQL</strong>.",
+      "As a student member of the <strong>Computer Society of India (CSI)</strong>, I actively explore new technologies and industry trends while building a solid foundation in software development. Beyond coding, I enjoy photography and video editing, which help me bring creativity and a fresh perspective to my work."
+    ],
+    "stats": [
+      { "value": "3+", "label": "Years Active" },
+      { "value": "10+", "label": "Projects Built" },
+      { "value": "4", "label": "Creative Domains" },
+      { "value": "∞", "label": "Coffee Cups" }
+    ],
+    "location": "Based in India"
+  },
+
+  "experience": [
+    {
+      "period": "2024 — Present",
+      "company": "Freelance",
+      "role": "Full Stack Developer & Designer",
+      "desc": "Building end-to-end web products for clients worldwide. From REST API architecture to pixel-perfect frontends. Also handling brand identity, design systems, and digital presence.",
+      "tags": ["React", "Node.js", "MongoDB", "Figma", "Next.js"]
+    },
+    {
+      "period": "2023 — 2024",
+      "company": "Photography & Editing",
+      "role": "Visual Content Creator",
+      "desc": "Commercial photography, video production and post-processing. Color grading, retouching, and cinematic video editing for brands and individuals.",
+      "tags": ["Lightroom", "Photoshop", "Premiere Pro", "After Effects"]
+    },
+    {
+      "period": "2022 — 2023",
+      "company": "Self-taught",
+      "role": "Web Developer",
+      "desc": "Deep dive into the MERN stack. Built 10+ personal projects, open source contributions, and developed a strong foundation in modern full-stack development patterns.",
+      "tags": ["HTML/CSS", "JavaScript", "React", "MongoDB"]
+    }
+  ],
+
+  "projects": [
+    {
+      "num": "01 — Featured",
+      "featured": true,
+      "title": "Course-selling platform",
+      "desc": "A full-stack course selling platform — browse and purchase courses, Stripe payment integration, JWT auth, instructor dashboard, and real-time enrollment tracking with map-based user insights via Leaflet.",
+      "stack": ["React", "Node.js", "MongoDB", "Express", "Stripe", "Leaflet"],
+      "github": "https://github.com/riju3/Skillpointx-render",
+      "live": "https://skillpointx.onrender.com"
+    },
+    {
+      "num": "02",
+      "featured": false,
+      "title": "Durgapuja website",
+      "desc": "A cultural festival website for a family Durga Puja celebration — event gallery, sponsor showcase, and admin-managed uploads via Cloudinary. Built with MERN stack and Vite for a fast, immersive experience.",
+      "stack": ["React", "Node.js", "MongoDB", "Express", "Vite", "Cloudinary"],
+      "github": "https://github.com/riju3/Durgapuja-render",
+      "live": "https://durgapuja-frontend.onrender.com/"
+    }
+    ,
+    {
+      "num": "03",
+      "featured": false,
+      "title": "Personal Portfolio",
+      "desc": "My personal portfolio showcasing projects, blog posts, and contact info. Responsive, performance-optimized, and accessible.",
+      "stack": ["HTML", "CSS", "JavaScript", "json", "Formspree"],
+      "github": "",
+      "live": ""
+    }
+  ],
+
+  "blog": [
+    {
+      "category": "Dev",
+      "title": "Why I Use MongoDB Over SQL for Most Projects",
+      "date": "Coming Soon",
+      "url": "#"
+    },
+    {
+      "category": "Photography",
+      "title": "Lightroom vs Capture One: Honest Take",
+      "date": "Coming Soon",
+      "url": "#"
+    },
+    {
+      "category": "Design",
+      "title": "How I Design Before Writing a Single Line of Code",
+      "date": "Coming Soon",
+      "url": "#"
+    },
+    {
+      "category": "Career",
+      "title": "Freelancing in India — What They Don't Tell You",
+      "date": "Coming Soon",
+      "url": "#"
+    }
+  ],
+
+  "contact": {
+    "email": "subhamoy@example.com",
+    "socials": [
+      { "name": "Email", "url": "mailto:subhamoy@example.com" },
+      { "name": "GitHub", "url": "https://github.com/riju3" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/subhamoy-chowdhury-8a149035a/" },
+      { "name": "Instagram", "url": "https://www.instagram.com/riju.subhamoy/" }
+    ]
+  }
+}
